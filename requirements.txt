@@ -1,0 +1,9 @@
+tkinter
+matplotlib
+SpeechRecognition
+gTTS
+playsound
+webbrowser
+Pillow
+pyttsx3
+pyaudio
